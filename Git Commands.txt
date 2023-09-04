@@ -11,3 +11,4 @@ git branch -M origin                    - To create a main branch
 git branch (branch-name)                - To create a new branch
 git checkout (branch-name)              - To change branches
 git branch                              - To get different branches in the repo
+git merge (name-of-branch)              - To merge branches
