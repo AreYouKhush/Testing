@@ -1,0 +1,9 @@
+git init
+git status
+git add (file-name)
+git log
+git diff
+git checkout (file-name)
+git commit -m "message" (file-name)
+git remote add origin (https://github.com/AreYouKhush/Testing.git)
+git push -u origin main
