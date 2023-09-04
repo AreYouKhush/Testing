@@ -1,9 +1,13 @@
-git init
-git status
-git add (file-name)
-git log
-git diff
-git checkout (file-name)
-git commit -m "message" (file-name)
-git remote add origin (https://github.com/AreYouKhush/Testing.git)
-git push -u origin main
+git init                                - To initialize
+git status                              - To check the status
+git add (file-name)                     - To add a file to staged commits
+git log                                 - To check the past commits
+git diff                                - To check the difference between versions
+git checkout (file-name)                - To rollback the changes in a file
+git commit -m "message" (file-name)     - To commit changes
+git remote add origin (repo-link)       - To add a remote repo
+git push -u origin main                 - To push the local files to the main branch
+git branch -M origin                    - To create a main branch
+git branch (branch-name)                - To create a new branch
+git checkout (branch-name)              - To change branches
+git branch                              - To get different branches in the repo
